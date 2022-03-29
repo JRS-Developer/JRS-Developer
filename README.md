@@ -18,23 +18,23 @@ Me gusta mucho el diseño web, y desarrollo de aplicaciones web testeables y esc
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f415.png" height="18" style="margin-right:5px;"/>[Visit Project](https://jrs-dogs.netlify.app/)
 
-<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;">
-<img src="./Projects/Dogs J/Dogs J - Home Page.jpg" style="border-radius:4px;height:100%;"/>
-<img src="./Projects/Dogs J/Dogs J - Search Page.jpg" style="border-radius:4px;height:100%;"/>
-<img src="./Projects/Dogs J/Dogs J - Dog Page.jpg" style="border-radius:4px;height:100%"/>
-<img src="./Projects/Dogs J/Dogs J - Create Breed Page.jpg" style="border-radius:4px;height:100%;"/>
-</div>
+<p style="display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;">
+<img src="./Projects/Dogs J/Dogs J - Home Page.jpg" style="border-radius:4px;height:100%;" width="49%"/>
+<img src="./Projects/Dogs J/Dogs J - Search Page.jpg" style="border-radius:4px;height:100%;" width="49%"/>
+<img src="./Projects/Dogs J/Dogs J - Dog Page.jpg" style="border-radius:4px;height:100%" width="49%"/>
+<img src="./Projects/Dogs J/Dogs J - Create Breed Page.jpg" style="border-radius:4px;height:100%;" width="49%"/>
+</p>
 
 #### Gaia Project <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png" height="18"/>
 
 [Client](https://github.com/JRS-Developer/pf-client) [Server](https://github.com/JRS-Developer/pf-server) [Chat](https://github.com/JRS-Developer/pf-chat)
 
-<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;">
-<img src="./Projects/Gaia/Gaia - Classroom.png" style="border-radius:4px;height:100%;"/>
-<img src="./Projects/Gaia/Gaia - Chat.png" style="border-radius:4px;height:100%;"/>
-<img src="./Projects/Gaia/Gaia - Publications.png" style="border-radius:4px;height:100%"/>
-<img src="./Projects/Gaia/Gaia - Tareas.png" style="border-radius:4px;height:100%;"/>
-</div>
+<p style="display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;">
+<img src="./Projects/Gaia/Gaia - Classroom.png" style="border-radius:4px;height:100%;" width="49%"/>
+<img src="./Projects/Gaia/Gaia - Chat.png" style="border-radius:4px;height:100%;" width="49%"/>
+<img src="./Projects/Gaia/Gaia - Publications.png" style="border-radius:4px;height:100%" width="49%"/>
+<img src="./Projects/Gaia/Gaia - Tareas.png" style="border-radius:4px;height:100%;" width="49%"/>
+</p>
 
 #### Valorant Page <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png" height="18"/>
 
@@ -42,12 +42,12 @@ Me gusta mucho el diseño web, y desarrollo de aplicaciones web testeables y esc
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png" height="18" style="margin-right:5px;"/>[Visit Project](https://jrs-developer.github.io/valorant/)
 
-<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;">
-<img src="./Projects/Valorant/Valorant - Home Page.jpg" style="border-radius:4px;height:100%;"/>
-<img src="./Projects/Valorant/Valorant - Home Page Agents Section.jpg" style="border-radius:4px;height:100%;"/>
-<img src="./Projects/Valorant/Valorant - Agents Page.jpg" style="border-radius:4px;height:100%;"/>
-<img src="./Projects/Valorant/Valorant - Agents Page - Jett.jpg" style="border-radius:4px;height:100%"/>
-</div>
+<p style="display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;">
+<img src="./Projects/Valorant/Valorant - Home Page.jpg" style="border-radius:4px;height:100%;" width="49%"/>
+<img src="./Projects/Valorant/Valorant - Home Page Agents Section.jpg" style="border-radius:4px;height:100%;" width="49%"/>
+<img src="./Projects/Valorant/Valorant - Agents Page.jpg" style="border-radius:4px;height:100%;" width="49%"/>
+<img src="./Projects/Valorant/Valorant - Agents Page - Jett.jpg" style="border-radius:4px;height:100%" width="49%"/>
+</p>
 
 #### Rick & Morty Search App <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png" height="18"/>
 
@@ -55,10 +55,10 @@ Me gusta mucho el diseño web, y desarrollo de aplicaciones web testeables y esc
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png" height="18" style="margin-right:5px;"/>[Visit Project](https://jrs-developer.github.io/rick-morty/)
 
-<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;">
-<img src="./Projects/Rick & Morty/Rick & Morty - Home Page.jpg" style="border-radius:4px;height:100%;"/>
-<img src="./Projects/Rick & Morty/Rick & Morty - Results Page.jpg" style="border-radius:4px;height:100%;"/>
-</div>
+<p style="display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;">
+<img src="./Projects/Rick & Morty/Rick & Morty - Home Page.jpg" style="border-radius:4px;height:100%;" width="49%"/>
+<img src="./Projects/Rick & Morty/Rick & Morty - Results Page.jpg" style="border-radius:4px;height:100%;" width="49%"/>
+</p>
 
 #### Countries Search App <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png" height="18"/>
 
@@ -66,12 +66,12 @@ Me gusta mucho el diseño web, y desarrollo de aplicaciones web testeables y esc
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png" height="18" style="margin-right:5px;"/>[Visit Project](https://jrs-developer.github.io/rick-morty/)
 
-<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;">
-<img src="./Projects/Countries/Countries - Home Page.jpg" style="border-radius:4px;height:100%;"/>
-<img src="./Projects/Countries/Countries - Home Page - Light Mode.jpg" style="border-radius:4px;height:100%;"/>
-<img src="./Projects/Countries/Countries - Country Page.jpg" style="border-radius:4px;height:100%;"/>
-<img src="./Projects/Countries/Countries - Country Page - Light Mode.jpg" style="border-radius:4px;height:100%;"/>
-</div>
+<p style="display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;">
+<img src="./Projects/Countries/Countries - Home Page.jpg" style="border-radius:4px;height:100%;" width="49%"/>
+<img src="./Projects/Countries/Countries - Home Page - Light Mode.jpg" style="border-radius:4px;height:100%;" width="49%"/>
+<img src="./Projects/Countries/Countries - Country Page.jpg" style="border-radius:4px;height:100%;" width="49%"/>
+<img src="./Projects/Countries/Countries - Country Page - Light Mode.jpg" style="border-radius:4px;height:100%;" width="49%"/>
+</p>
 
 ## Portfolio <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png" height="18"/>
 
