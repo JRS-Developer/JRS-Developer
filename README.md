@@ -75,7 +75,7 @@ Me gusta mucho el diseño web, y desarrollo de aplicaciones web testeables y esc
 
 ## Portfolio <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png" height="18"/>
 
-Si quieres ver mas de mis proyectos, puedes [visitar mi portfolio](https://jrs-developer.github.io/).
+Si quieres ver mas de mis proyectos, puedes [visitar mi portfolio](https://jrs-dev.netlify.app/).
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" height="20"/> Contacto <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" height="20"/>
 
